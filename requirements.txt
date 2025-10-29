@@ -1,0 +1,7 @@
+cat > requirements.txt <<'EOF'
+spacy
+pandas
+pyyaml
+requests
+openai
+EOF
